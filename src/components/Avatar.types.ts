@@ -2,15 +2,15 @@ import * as THREE from "three";
 import type { GLTF } from "three-stdlib";
 
 export const corresponding = {
-  A: "viseme_PP",
-  B: "viseme_kk",
-  C: "viseme_I",
-  D: "viseme_AA",
-  E: "viseme_O",
-  F: "viseme_U",
-  G: "viseme_FF",
-  H: "viseme_TH",
-  X: "viseme_PP",
+  A: "viseme_FF",
+  B: "viseme_SS",
+  C: "viseme_E",
+  D: "viseme_aa",
+  E: "viseme_RR",
+  F: "viseme_DD",
+  G: "viseme_O",
+  H: "viseme_aa",
+  X: "viseme_I",
 } as const;
 
 export type GLTFResult = GLTF & {
