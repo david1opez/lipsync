@@ -1,5 +1,8 @@
 # 3D Avatar with Lip-Sync Demo
 
+![3D Avatar Demo showing a character with lip-sync capabilities](./readme.png)
+*Interactive 3D avatar with real-time lip-sync and facial expressions*
+
 A React Three Fiber (R3F) application featuring an interactive 3D avatar with lip-sync animation, facial expressions, and body animations. Built with TypeScript, Vite, and modern Three.js ecosystem tools.
 
 ## 📺 Credits
