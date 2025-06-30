@@ -7,7 +7,7 @@ A React Three Fiber (R3F) application featuring an interactive 3D avatar with li
 
 ## 📺 Credits
 
-This project is based on the excellent YouTube tutorial by **Wawa Sensei**: 
+This project is based on the YouTube tutorial by **Wawa Sensei**: 
 **["Create a 3D AI Avatar with React Three Fiber"](https://www.youtube.com/watch?v=egQFAeu6Ihw)**
 
 The codebase has been enhanced with additional documentation, TypeScript improvements, and detailed explanations of all utility functions.
